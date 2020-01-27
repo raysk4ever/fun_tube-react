@@ -1,0 +1,16 @@
+.track-container{
+    text-align: left;
+    margin: 10px;
+    padding: 10px;
+}
+.track-sub-container{
+    display: flex;
+    justify-content: space-between;
+}
+.track-title{
+    font-size: 25px;
+}
+.track-sub-info{
+    margin-top: 10px;
+    color: #999;
+}

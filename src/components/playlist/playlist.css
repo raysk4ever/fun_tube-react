@@ -1,0 +1,44 @@
+.playlist-container{
+    margin: 10px;
+    display: flex;
+    min-width: 500px;
+    max-width: 500px;
+    flex-direction: column;
+    /* overflow: scroll; */
+    overflow-x: hidden; /* Hide vertical scrollbar */
+}
+.single-list-item{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+
+}
+.single-list-item:hover{
+    opacity: .8;
+}
+.single-list-item>img{
+    border-radius: 100px;
+    height: 80px;
+    width: 80px; 
+    margin-right: 10px;
+}
+.active{
+    background-color: #111;
+    color: #fff;
+    height: 100px;
+}
+.track-info{
+    align-items: flex-start;
+}
+.title{
+    color: red;
+    margin-bottom: 5px;
+}
+.by{
+    font-style: italic;
+    margin-bottom: 5px;
+}
