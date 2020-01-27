@@ -13,5 +13,5 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ###  `screenshots`
-<img src="https://ibb.co/4YXXhWw" alt="ss-1"/>
-<img src="https://ibb.co/kQksW5j" alt="ss-1"/>
+<img src="https://i.ibb.co/rczzDkK/Screenshot-from-2020-01-28-00-48-24.png" alt="Screenshot-from-2020-01-28-00-48-24" border="0" />
+<img src="https://i.ibb.co/Hn1fkB6/Screenshot-from-2020-01-28-00-49-59.png" alt="Screenshot-from-2020-01-28-00-49-59" border="0">
